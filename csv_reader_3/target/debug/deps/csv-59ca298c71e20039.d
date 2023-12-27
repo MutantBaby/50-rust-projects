@@ -1,0 +1,15 @@
+D:\VS Code Projects\Projects\50 rust projects\csv_reader_3\target\debug\deps\csv-59ca298c71e20039.rmeta: C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\lib.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\byte_record.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\cookbook.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\debug.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\deserializer.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\error.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\reader.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\serializer.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\string_record.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\tutorial.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\writer.rs
+
+D:\VS Code Projects\Projects\50 rust projects\csv_reader_3\target\debug\deps\csv-59ca298c71e20039.d: C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\lib.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\byte_record.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\cookbook.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\debug.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\deserializer.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\error.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\reader.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\serializer.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\string_record.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\tutorial.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\writer.rs
+
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\lib.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\byte_record.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\cookbook.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\debug.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\deserializer.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\error.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\reader.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\serializer.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\string_record.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\tutorial.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.2.1\src\writer.rs:

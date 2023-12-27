@@ -1,0 +1,11 @@
+D:\VS Code Projects\Projects\50 rust projects\get_async_request_7\target\debug\deps\libc-bcfd205ea17153db.rmeta: C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+D:\VS Code Projects\Projects\50 rust projects\get_async_request_7\target\debug\deps\liblibc-bcfd205ea17153db.rlib: C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+D:\VS Code Projects\Projects\50 rust projects\get_async_request_7\target\debug\deps\libc-bcfd205ea17153db.d: C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs
+
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\lib.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\macros.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\fixed_width_ints.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\mod.rs:
+C:\Users\shahe\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.144\src\windows\msvc\mod.rs:
